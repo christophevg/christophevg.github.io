@@ -8,3 +8,5 @@ layout: site
 Welcome to my GitHub Pages website!
 
 On these pages, you can find my [CV](cv).
+
+I also host a [blog](blog).
