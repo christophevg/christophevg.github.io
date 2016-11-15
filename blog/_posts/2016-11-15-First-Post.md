@@ -1,7 +1,6 @@
 ---
-layout: site
+layout: post
+title: First Post !
 ---
-
-# First Post !
 
 blah blah blah
