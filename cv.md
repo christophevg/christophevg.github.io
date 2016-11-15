@@ -6,11 +6,9 @@ layout: site
 
 This page gives you an overview of my professional life...
 
-## My last position
+{% for position in site.data.cv %}
 
-blah blah blah ...
+## {{ position.description }} at {{ position.company }}
+{{ position.start }} - {{ position.end }}
 
-## My previous position
-
-more blah blah ...
-
+{% endfor %}
