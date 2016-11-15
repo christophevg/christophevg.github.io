@@ -2,6 +2,6 @@
 layout: site
 ---
 
-<h2>{{ page.date }} - {{ page.title }}</h2>
+<h2>{{ page.date | date_to_long_string }} - {{ page.title }}</h2>
 
 {{ content }}
