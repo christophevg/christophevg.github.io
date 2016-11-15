@@ -1,6 +1,12 @@
 ---
 layout: site
 ---
+
+
+> **This is a demo website for a workshop I hosted on GitHub Pages.  
+> My real personal website can be found at http://christophe.vg  
+> Slides for this workshop can be found at www.slideshare.net/christophevg/git-hub-pages**
+
 # Christophe VG's website
 
 ![This is me](images/avatar-80px.png)
